@@ -24,3 +24,7 @@ python3 session_folder_dater.py /Volumes/MUSIC/staging --apply  # renames
 - Skips `.DS_Store`, `._*` and other OS clutter.
 
 No dependencies beyond Python 3.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
